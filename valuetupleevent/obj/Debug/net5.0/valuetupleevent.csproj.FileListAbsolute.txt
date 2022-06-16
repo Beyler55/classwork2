@@ -1,0 +1,16 @@
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.exe
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.deps.json
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.runtimeconfig.json
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.runtimeconfig.dev.json
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.dll
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\ref\valuetupleevent.dll
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\bin\Debug\net5.0\valuetupleevent.pdb
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.csproj.AssemblyReference.cache
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.AssemblyInfoInputs.cache
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.AssemblyInfo.cs
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.csproj.CoreCompileInputs.cache
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.dll
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\ref\valuetupleevent.dll
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.pdb
+C:\Users\baylarss\source\repos\valuetupleevent\valuetupleevent\obj\Debug\net5.0\valuetupleevent.genruntimeconfig.cache
